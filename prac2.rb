@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require "pry"
 
 def merge_data(array1, array2)
@@ -57,3 +58,21 @@ merge_data( array1 , array2)
   
 =end
   
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#[{:awesomeness=>10, :first_name=>"blake", :height=>"74", :last_name=>"johnson", :motto=>"Have a koala...:first_name=>"ashley", :height=>60, :last_name=>"dubs", :motto=>"I dub thee, 'Lady Brett Ashley'."}]
+>>>>>>> c79726d2eb8fc078d738b850cef8e6d1ea75f699
